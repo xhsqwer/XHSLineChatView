@@ -2,7 +2,7 @@
 XHSLineChatView
 折线图，支持放大缩小，横向定位放大,增加长按功能,y轴的值可以自己设置。采用贝塞尔曲线，核心绘图，支持大数据量。减少卡顿，左右滑动流畅
 
-
+https://github.com/xhsqwer/XHSLineChatView/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-01-25%20%E4%B8%8A%E5%8D%8811.25.37.png?raw=true
 
 # How To Use
 
