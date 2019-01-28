@@ -21,3 +21,6 @@ XHSLineChatView *wsLine = [[XHSLineChatView alloc]initWithFrame:CGRectMake(0, 15
 [self.view addSubview:wsLine];
 
 喜欢的点个星。 (*^__^*)
+
+欢迎进群交流
+群号：975351845
